@@ -1,1 +1,1 @@
-tcp://1.tcp.cpolar.io:10735
+tcp://1.tcp.cpolar.io:10052
